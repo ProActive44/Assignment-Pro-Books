@@ -1,0 +1,21 @@
+.bookContainer {
+  /* border: 1px solid red; */
+  background-color: antiquewhite;
+  padding: 20px;
+    color: black;
+    border-radius: 20px;
+    margin: 20px auto;
+}
+
+.middleContainer div{
+  padding: "100000000px";
+  border: 1px solid red;
+}
+
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
